@@ -21,6 +21,12 @@ div
     margin-bottom: 20px;
 }
 
+figcaption
+{
+    text-align: center;
+    margin-top: 10px;
+}
+
 blockquote
 {
     padding: 10px;
